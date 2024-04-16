@@ -1,0 +1,10 @@
+nav {
+  background: linear-gradient(90deg, #672280, #a626d3);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
